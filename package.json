@@ -1,0 +1,27 @@
+{
+  "name": "marko-transclusion",
+  "version": "0.0.0",
+  "description": "Demonstrates using transclusion with UI components built using Marko Widgets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marko-js-samples/marko-transclusion"
+  },
+  "author": "Patrick Steele-idem <pnidem@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/marko-js-samples/marko-transclusion",
+  "dependencies": {
+    "app-module-path": "^1.0.5",
+    "browser-refresh-taglib": "^1.0.3",
+    "express": "^4.4.1",
+    "jquery": "^2.1.1",
+    "lasso": "^1.10.1",
+    "lasso-marko": "^2.0.4",
+    "marko": "^2.7.8",
+    "marko-widgets": "^5.3.3",
+    "serve-static": "^1.2.1"
+  }
+}

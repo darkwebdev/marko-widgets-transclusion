@@ -1,0 +1,11 @@
+<div class="app-outer" w-bind>
+    <h1>app-outer</h1>
+    <app-inner>
+        <div class="app-outer">
+            <button type="button" w-onclick="handleButtonClick">
+                Click Me
+            </button>
+            <p>You've clicked it ${data.clickCount} times</p>
+        </div>
+    </app-inner>
+</div>
