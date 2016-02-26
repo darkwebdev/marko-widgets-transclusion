@@ -18,10 +18,10 @@
     "browser-refresh-taglib": "^1.0.3",
     "express": "^4.4.1",
     "jquery": "^2.1.1",
-    "lasso": "^1.10.1",
+    "lasso": "^2.0.0",
     "lasso-marko": "^2.0.4",
-    "marko": "^2.7.8",
-    "marko-widgets": "^5.3.3",
+    "marko": "^3.0.0-rc.1",
+    "marko-widgets": "^6.0.0-alpha.1",
     "serve-static": "^1.2.1"
   }
 }
