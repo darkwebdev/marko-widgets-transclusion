@@ -6,8 +6,8 @@ This sample app demonstrates using transclusion with UI components built using M
 # Installation
 
 ```
-git clone https://github.com/marko-js-samples/marko-transclusion.git
-cd marko-transclusion
+git clone https://github.com/marko-js-samples/marko-widgets-transclusion.git
+cd marko-widgets-transclusion
 npm install
 node server.js
 ```
